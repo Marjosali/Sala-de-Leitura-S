@@ -1,4 +1,4 @@
-ervices:
+services:
   - type: web
     name: sala-de-leitura-S
     env: docker
