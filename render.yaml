@@ -2,6 +2,6 @@ services:
   - type: web
     name: sala-de-leitura-S
     env: docker
-    dockerComposePath: docker-compose.yml
+    dockerComposePath: Sala-de-Leitura-S/docker-compose.yaml
     plan: starter
     region: oregon
